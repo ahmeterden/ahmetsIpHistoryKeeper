@@ -1,0 +1,2 @@
+﻿- (Bu biraz zor çünkü bu event 4 kere fire ediyor) 5 dk da bir program bakmasında ip'lere de interface'lerde ip değişimi olursa  bu kod'ar çalışsa, yani event yapsak?
+- txt de sadece public ip var da private ip yoksa error veriyor, kontrol ekle
